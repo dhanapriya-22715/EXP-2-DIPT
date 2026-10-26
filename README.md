@@ -81,6 +81,7 @@ cap.release()
 <img width="887" height="502" alt="image" src="https://github.com/user-attachments/assets/d0f20d00-ddf5-438e-a9a4-ff2036455aec" />
 <img width="925" height="506" alt="image" src="https://github.com/user-attachments/assets/b0382030-1baa-46bd-a62e-e9990c759850" />
 <img width="935" height="517" alt="image" src="https://github.com/user-attachments/assets/eacc3bd3-d969-4e31-9a77-2735172c7173" />
+
 # Result :
 Thus the Image Acquisition Using Web Camera was verified successfully.
 
