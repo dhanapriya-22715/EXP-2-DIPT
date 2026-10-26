@@ -16,7 +16,7 @@ To acquire an image using a web camera and display the video with resizing and r
 8. Release the camera after completing the operations.
 
 # Coode:
-```
+```python
 import cv2
 import matplotlib.pyplot as plt
 from IPython.display import clear_output
